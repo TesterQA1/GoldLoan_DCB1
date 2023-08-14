@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="116" started-at="2023-08-14T11:33:40 IST" finished-at="2023-08-14T11:33:41 IST">
+    <groups>
+    </groups>
+    <test name="MavenTest" duration-ms="116" started-at="2023-08-14T11:33:40 IST" finished-at="2023-08-14T11:33:41 IST">
+      <class name="p1.TestA">
+        <test-method status="PASS" signature="tc001()[pri:0, instance:p1.TestA@711f39f9]" name="tc001" duration-ms="15" started-at="2023-08-14T11:33:40 IST" finished-at="2023-08-14T11:33:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="tc002()[pri:0, instance:p1.TestA@711f39f9]" name="tc002" duration-ms="2" started-at="2023-08-14T11:33:41 IST" finished-at="2023-08-14T11:33:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc002 -->
+      </class> <!-- p1.TestA -->
+      <class name="p2.TestB">
+        <test-method status="PASS" signature="tc003()[pri:0, instance:p2.TestB@71bbf57e]" name="tc003" duration-ms="4" started-at="2023-08-14T11:33:41 IST" finished-at="2023-08-14T11:33:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc003 -->
+        <test-method status="PASS" signature="tc004()[pri:0, instance:p2.TestB@71bbf57e]" name="tc004" duration-ms="3" started-at="2023-08-14T11:33:41 IST" finished-at="2023-08-14T11:33:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc004 -->
+      </class> <!-- p2.TestB -->
+    </test> <!-- MavenTest -->
+  </suite> <!-- Suite1 -->
+</testng-results>

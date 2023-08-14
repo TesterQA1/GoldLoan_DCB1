@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite1">
+	<test name="MavenTest" verbose="2">
+		<classes>
+			<class name="p1.TestA"/>
+			<class name="p2.TestB"/>
+		</classes>
+	</test>
+</suite>
