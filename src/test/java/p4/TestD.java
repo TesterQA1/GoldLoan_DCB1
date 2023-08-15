@@ -10,6 +10,12 @@ public class TestD {
   {
 	  System.out.println("Run Completed");
   }
+  
+  @Test
+  public void f1()
+  {
+	  System.out.println("f1 Run Completed");
+  }
   @BeforeMethod
   public void beforeMethod() {
   }
