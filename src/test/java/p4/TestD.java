@@ -14,7 +14,7 @@ public class TestD {
   @Test
   public void f1()
   {
-	  System.out.println("f1 Run Completed");
+	  System.out.println("f2 Run Completed");
   }
   @BeforeMethod
   public void beforeMethod() {
